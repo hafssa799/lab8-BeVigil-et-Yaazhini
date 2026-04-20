@@ -71,20 +71,22 @@ Objectif : Analyser l'exposition externe (OSINT) de l'application.
 
 <img width="1800" height="807" alt="image" src="https://github.com/user-attachments/assets/559af175-f946-4419-a60a-d838e501ad0e" />
 
-<img width="1621" height="874" alt="image" src="https://github.com/user-attachments/assets/a0652f01-ef1c-44a3-ba4a-1e9519e0110c" />
+<img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/80e68003-a924-4a76-83de-0b61d8bd8027" />
 
-<img width="742" height="405" alt="image" src="https://github.com/user-attachments/assets/52d691d9-3bba-4906-b915-15b052303d13" />
+<img width="945" height="526" alt="image" src="https://github.com/user-attachments/assets/0133131e-6048-488b-bf8c-671b101dec63" />
 
-<img width="597" height="453" alt="image" src="https://github.com/user-attachments/assets/2c894df3-d57d-4806-b0a6-97e42b4ab6f4" />
+<img width="945" height="707" alt="image" src="https://github.com/user-attachments/assets/312d659c-3eee-416d-bff7-85a74695fb5c" />
 
-<img width="1648" height="901" alt="image" src="https://github.com/user-attachments/assets/892facdc-7dbb-45a1-a5e3-0f57585050c6" />
+
+<img width="945" height="400" alt="image" src="https://github.com/user-attachments/assets/6872625c-1fce-4576-bdbb-085f7628a151" />
 
 
 ## Task 4 — Démarrage et prise en main Yaazhini
 
-<img width="1342" height="892" alt="image" src="https://github.com/user-attachments/assets/72ca6923-a704-415a-a53d-f355001dc2e4" />
+<img width="945" height="543" alt="image" src="https://github.com/user-attachments/assets/9d101aa2-fb08-4ae8-978f-3af1528c19e0" />
 
-<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/87a5d764-d967-4155-af83-59dfa4e14e96" />
+<img width="945" height="413" alt="image" src="https://github.com/user-attachments/assets/4cf5d64a-2116-4059-aa40-a84816cee644" />
 
-<img width="355" height="718" alt="image" src="https://github.com/user-attachments/assets/52251a75-c31c-4f6c-a631-9e67f6aec6bd" />
+<img width="711" height="1297" alt="image" src="https://github.com/user-attachments/assets/9844ea3f-5da2-4357-a840-93b7aa40ccd5" />
+
 

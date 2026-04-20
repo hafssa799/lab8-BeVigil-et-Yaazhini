@@ -66,3 +66,8 @@ Objectif : Compiler l'application et garantir son intégrité via un Hash SHA-25
 ## Task 3 — Démarrage et Prise en main BeVigil
 
 Objectif : Analyser l'exposition externe (OSINT) de l'application.
+
+<img width="1750" height="892" alt="image" src="https://github.com/user-attachments/assets/a392aed8-5d93-4093-867c-f5f17b4e14e9" />
+
+<img width="1621" height="874" alt="image" src="https://github.com/user-attachments/assets/a0652f01-ef1c-44a3-ba4a-1e9519e0110c" />
+

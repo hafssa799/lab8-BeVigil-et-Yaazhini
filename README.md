@@ -67,17 +67,27 @@ Objectif : Compiler l'application et garantir son intégrité via un Hash SHA-25
 
 Objectif : Analyser l'exposition externe (OSINT) de l'application.
 
+- Le fichier app-debug.apk a été sélectionné et est prêt à être uploadé. Cette étape initie l'analyse statique de l'APK afin d'en évaluer le niveau de risque
+
 <img width="1750" height="892" alt="image" src="https://github.com/user-attachments/assets/a392aed8-5d93-4093-867c-f5f17b4e14e9" />
+
+- L'upload du fichier APK s'est terminé avec succès. CloudSEK confirme la réception du fichier et indique que le rapport de risque sera disponible prochainement.
 
 <img width="1800" height="807" alt="image" src="https://github.com/user-attachments/assets/559af175-f946-4419-a60a-d838e501ad0e" />
 
+- Cette capture montre l'analyse du certificat de signature de l'APK dans le Certificate Viewer de CloudSEK.
+  
 <img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/80e68003-a924-4a76-83de-0b61d8bd8027" />
 
+- Le certificat yaazhini_rootCA a été trouvé dans le répertoire lab-mobile-security > 02-yaazhini
+  
 <img width="945" height="526" alt="image" src="https://github.com/user-attachments/assets/0133131e-6048-488b-bf8c-671b101dec63" />
 
+- Interface principale de Yaazhini
 <img width="945" height="707" alt="image" src="https://github.com/user-attachments/assets/312d659c-3eee-416d-bff7-85a74695fb5c" />
 
-
+- Cette capture montre l'écran d'accueil du module Yaazhini API Scanner avec les étapes à suivre pour l'interception des communications réseau de l'application.
+  
 <img width="945" height="400" alt="image" src="https://github.com/user-attachments/assets/6872625c-1fce-4576-bdbb-085f7628a151" />
 
 

@@ -66,19 +66,19 @@ Objectif : Compiler l'application et garantir son intégrité via un Hash SHA-25
 ## Task 3 — Démarrage et Prise en main BeVigil
 
 Objectif : Analyser l'exposition externe (OSINT) de l'application.
-
-- Recherche de l'application cible sur BeVigil (CloudSEK) pour obtenir des informations sur les apps mobiles indexées.
   
 <img width="1750" height="892" alt="image" src="https://github.com/user-attachments/assets/a392aed8-5d93-4093-867c-f5f17b4e14e9" />
 
-- Upload du fichier app-debug.apk sur la plateforme BeVigil via l'option "Scan .apk file" pour analyse de vulnérabilités.
+- Recherche de l'application cible sur BeVigil (CloudSEK) pour obtenir des informations sur les apps mobiles indexées.
   
 <img width="1800" height="807" alt="image" src="https://github.com/user-attachments/assets/559af175-f946-4419-a60a-d838e501ad0e" />
 
-- Confirmation que le fichier APK a été soumis avec succès, le rapport de risque sera disponible prochainement.
+- Upload du fichier app-debug.apk sur la plateforme BeVigil via l'option "Scan .apk file" pour analyse de vulnérabilités.
   
 <img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/80e68003-a924-4a76-83de-0b61d8bd8027" />
-  
+
+  - Confirmation que le fichier APK a été soumis avec succès, le rapport de risque sera disponible prochainement.
+    
 <img width="945" height="526" alt="image" src="https://github.com/user-attachments/assets/0133131e-6048-488b-bf8c-671b101dec63" />
 
 <img width="945" height="707" alt="image" src="https://github.com/user-attachments/assets/312d659c-3eee-416d-bff7-85a74695fb5c" />

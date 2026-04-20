@@ -71,18 +71,26 @@ Objectif : Analyser l'exposition externe (OSINT) de l'application.
 
 - Recherche de l'application cible sur BeVigil (CloudSEK) pour obtenir des informations sur les apps mobiles indexées.
   
+  
 <img width="1800" height="807" alt="image" src="https://github.com/user-attachments/assets/559af175-f946-4419-a60a-d838e501ad0e" />
 
+
 - Upload du fichier app-debug.apk sur la plateforme BeVigil via l'option "Scan .apk file" pour analyse de vulnérabilités.
+
   
 <img width="945" height="485" alt="image" src="https://github.com/user-attachments/assets/80e68003-a924-4a76-83de-0b61d8bd8027" />
+
 
   - Confirmation que le fichier APK a été soumis avec succès, le rapport de risque sera disponible prochainement.
     
 <img width="945" height="526" alt="image" src="https://github.com/user-attachments/assets/0133131e-6048-488b-bf8c-671b101dec63" />
 
+- Analyse du certificat de l'APK via BeVigil Certificate Viewer révèle que l'app est signée avec un certificat de débogage
+  
 <img width="945" height="707" alt="image" src="https://github.com/user-attachments/assets/312d659c-3eee-416d-bff7-85a74695fb5c" />
 
+- Installation et importation réussie du certificat racine YaazhiniProxy
+  
   
 <img width="945" height="400" alt="image" src="https://github.com/user-attachments/assets/6872625c-1fce-4576-bdbb-085f7628a151" />
 

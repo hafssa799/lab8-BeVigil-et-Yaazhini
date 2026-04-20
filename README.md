@@ -69,5 +69,22 @@ Objectif : Analyser l'exposition externe (OSINT) de l'application.
 
 <img width="1750" height="892" alt="image" src="https://github.com/user-attachments/assets/a392aed8-5d93-4093-867c-f5f17b4e14e9" />
 
+<img width="1800" height="807" alt="image" src="https://github.com/user-attachments/assets/559af175-f946-4419-a60a-d838e501ad0e" />
+
 <img width="1621" height="874" alt="image" src="https://github.com/user-attachments/assets/a0652f01-ef1c-44a3-ba4a-1e9519e0110c" />
+
+<img width="742" height="405" alt="image" src="https://github.com/user-attachments/assets/52d691d9-3bba-4906-b915-15b052303d13" />
+
+<img width="597" height="453" alt="image" src="https://github.com/user-attachments/assets/2c894df3-d57d-4806-b0a6-97e42b4ab6f4" />
+
+<img width="1648" height="901" alt="image" src="https://github.com/user-attachments/assets/892facdc-7dbb-45a1-a5e3-0f57585050c6" />
+
+
+## Task 4 — Démarrage et prise en main Yaazhini
+
+<img width="1342" height="892" alt="image" src="https://github.com/user-attachments/assets/72ca6923-a704-415a-a53d-f355001dc2e4" />
+
+<img width="1918" height="1006" alt="image" src="https://github.com/user-attachments/assets/87a5d764-d967-4155-af83-59dfa4e14e96" />
+
+<img width="355" height="718" alt="image" src="https://github.com/user-attachments/assets/52251a75-c31c-4f6c-a631-9e67f6aec6bd" />
 

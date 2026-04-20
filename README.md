@@ -86,8 +86,10 @@ Objectif : Analyser l'exposition externe (OSINT) de l'application.
 <img width="945" height="526" alt="image" src="https://github.com/user-attachments/assets/0133131e-6048-488b-bf8c-671b101dec63" />
 
 - Analyse du certificat de l'APK via BeVigil Certificate Viewer révèle que l'app est signée avec un certificat de débogage
+
   
 <img width="945" height="707" alt="image" src="https://github.com/user-attachments/assets/312d659c-3eee-416d-bff7-85a74695fb5c" />
+
 
 - Installation et importation réussie du certificat racine YaazhiniProxy
   
@@ -97,9 +99,17 @@ Objectif : Analyser l'exposition externe (OSINT) de l'application.
 
 ## Task 4 — Démarrage et prise en main Yaazhini
 
+- Interface de l'outil Yaazhini (VegaBird Technologies) permettant de scanner un fichier APK ou d'intercepter les requêtes API via le proxy configuré sur l'IP 172.29.32.1 port 8088.
+
+  
 <img width="945" height="543" alt="image" src="https://github.com/user-attachments/assets/9d101aa2-fb08-4ae8-978f-3af1528c19e0" />
 
+
+- L'outil Yaazhini API Scanner affiche les 4 étapes d'utilisation : configurer le proxy Android, installer le certificat, naviguer dans l'app, puis générer le rapport de vulnérabilités.
+
+  
 <img width="945" height="413" alt="image" src="https://github.com/user-attachments/assets/4cf5d64a-2116-4059-aa40-a84816cee644" />
+
 
 <img width="711" height="1297" alt="image" src="https://github.com/user-attachments/assets/9844ea3f-5da2-4357-a840-93b7aa40ccd5" />
 
